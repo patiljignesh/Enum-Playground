@@ -79,9 +79,9 @@ for mobileNetwork in MobileNetworkProvidersReviewsCaseIterable.allCases {
 
 //_______________________________
 
-// Exapmle 3: CaseIterable
+// Exapmle 4: Associate Values
 // Comment out other enum to prevent duplicate declaration
-// Makes the casese in collections
+
 enum MobileNetworkProviderSubscribers {
     case Vodacome (users: Int)
     case AirTel (subscribers: Int)
